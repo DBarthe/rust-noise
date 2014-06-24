@@ -1,5 +1,5 @@
 RUSTDEBUG    = 1
-RUSTCRATES   = noise
+RUSTCRATES   = noise demo
 
 
 include rust-mk/rust.mk
